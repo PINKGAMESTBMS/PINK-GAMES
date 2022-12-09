@@ -1,0 +1,6 @@
+public static api KeyAuthApp = new api(
+    name: "men",
+    ownerid: "Qy5EaxgNSy",
+    secret: "022defed519182fb0661d1a0a1da4dfa0970eef5bf5484d12295e565abddc364",
+    version: "1.0"
+);
